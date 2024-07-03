@@ -1,0 +1,12 @@
+﻿cl : 命令列  warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+cl : 命令列  warning D9007: '/Gm' 需要 '/Zi 或 /ZI'，已忽略選項
+  load_3ds.cpp
+D:\important\Unity 太空飛船\load_3ds.cpp(57,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\important\Unity 太空飛船\load_3ds.cpp(63,26): warning C4996: 'filelength': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _filelength. See online help for details.
+  load_bmp.cpp
+D:\important\Unity 太空飛船\load_bmp.cpp(59,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  mat_vect.cpp
+  object.cpp
+  正在產生程式碼...
+  Spacesim.vcxproj -> D:\important\Unity 太空飛船\Debug\Spacesim.exe

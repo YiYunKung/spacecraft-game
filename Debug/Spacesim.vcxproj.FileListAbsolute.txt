@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\spacesimulator.net_tutorial5_win_vc6\Debug\Spacesim.exe
+C:\Users\tainc\我的雲端硬碟\授課課程資料\1大學部課程\計算機圖學 (大二)\Spacesimulator.net\spacesimulator.net_tutorial5 VS2019\Debug\Spacesim.exe
+D:\NCYU\大二 計算機圖學\spacesimulator.net_tutorial5 VS2019\Debug\Spacesim.exe
+D:\NCYU\大二 計算機圖學\期末專案\1102914 龔弋筠\Debug\Spacesim.exe
+D:\important\Unity 太空飛船\Debug\Spacesim.exe
